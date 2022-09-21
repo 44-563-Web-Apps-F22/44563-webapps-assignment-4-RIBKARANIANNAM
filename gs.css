@@ -43,6 +43,13 @@
     color:crimson;
     font-size :20px;
 }
+.CONST:hover{
+    background-color:greenyellow;
+        color:blue;
+        text-shadow: 2px;
+        filter: blur(2px);
+
+}
  .DR{
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color:darkviolet;
@@ -57,4 +64,18 @@
     font-family: Arial, Helvetica, sans-serif;
     color:gold;
     font-size :20px;
+}
+
+  table,th,td{
+    border:1px solid #000;
+    border-collapse: collapse;
+    height: 10px;
+    align-items: center;
+    padding: auto;
+    margin: auto;
+    color:white;
+    background-color:darkgreen;
+    font-size: medium;
+    font-style:oblique;
+    
 }
