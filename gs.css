@@ -1,0 +1,60 @@
+
+  .directions{
+        background-color:#87CEFA;
+        color:black;
+        font-size :20px;
+    }
+    .directions:hover{
+        background-color: darkmagenta;
+        color:bisque;
+    }
+   .song{
+    
+        color:black;
+        font-size :20px;
+   }
+   .speech{
+    
+        color:black;
+        font-size :20px;
+   }
+   .name{
+        font-family: Arial, Helvetica, sans-serif;
+        color:black;
+        font-size :20px;
+   }
+   .chorus{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:chocolate;
+    font-size :20px;
+}
+    .MRS{
+    font-family: Arial, Helvetica, sans-serif;
+    color:#87CEFA;
+    font-size :20px;
+}
+   .MRS:hover{
+    background-color:greenyellow;
+        color:bisque;
+
+   }
+  .CONST{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:crimson;
+    font-size :20px;
+}
+ .DR{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:darkviolet;
+    font-size :20px;
+}
+ .SIR {
+    font-family: Arial, Helvetica, sans-serif;
+    color:deeppink;
+    font-size :20px;
+}
+ .ALEX{
+    font-family: Arial, Helvetica, sans-serif;
+    color:gold;
+    font-size :20px;
+}
